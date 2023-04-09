@@ -36,5 +36,8 @@ class CalendarsController < ApplicationController
     end
 
     [week_days, todays_date]
+    
   end
+
+end
 end
